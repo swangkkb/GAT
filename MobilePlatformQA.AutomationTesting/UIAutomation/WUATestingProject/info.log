@@ -1,0 +1,18 @@
+[INFO ] [19:23:23] com.baidu.gameqa.Gat.executor.WebUIStepsExecutor - *************************************************************
+[INFO ] [19:23:23] com.baidu.gameqa.Gat.executor.WebUIStepsExecutor - Start executing case :Test01
+[INFO ] [19:23:23] com.baidu.gameqa.Gat.executor.WebUIStepsExecutor - preCleanup: run precleanup method
+[INFO ] [19:23:23] com.baidu.gameqa.Gat.executor.WebUIStepsExecutor - setGlobalConfig: set testcase file path as DataFiles\Xmls\DoubiPayTestCase.xml
+[INFO ] [19:23:23] com.baidu.gameqa.Gat.executor.WebUIStepsExecutor - executePreStep:
+[INFO ] [19:23:23] com.baidu.gameqa.Gat.executor.WebUIStepsExecutor - Test01WebUIStepCaseManager
+[INFO ] [19:23:24] com.baidu.gameqa.Gat.executor.WebUIStepsExecutor - executeCase: set step parameter path as DoubiPayStepParameters.xml
+[INFO ] [19:23:24] com.baidu.gameqa.Gat.executor.WebUIStepsExecutor - executeCase: execute step:com.baidu.gameqa.wuat.steps.demo.GameHomePageStepsloginTest01
+[INFO ] [19:23:24] com.baidu.gameqa.Lib.common.SimpleLogger - com.baidu.gameqa.wuat.steps.demo.GameHomePageSteps
+[INFO ] [19:23:24] com.baidu.gameqa.Lib.common.ClassReflector - login
+[INFO ] [19:23:24] com.baidu.gameqa.Gat.manager.WebUIStepsParameterManager - D:\百度云同步盘\Work\Code\QASvn\youxi\qa\gameqa.AutomationTesting\UIAutomation\DataFiles\Xmls\DoubiPayStepParameters.xmlTest01
+[INFO ] [19:23:24] com.baidu.gameqa.Gat.uia.webautomation.WebBrowser - http://www.baidu.com
+[INFO ] [19:23:26] com.baidu.gameqa.Lib.common.SimpleLogger - com.baidu.gameqa.Gat.uia.webautomation.webcontrols.WebUITextBox
+[INFO ] [19:23:27] com.baidu.gameqa.Gat.uia.webautomation.Action - class com.baidu.gameqa.Gat.uia.webautomation.webcontrols.WebUITextBox
+[INFO ] [19:23:27] com.baidu.gameqa.Lib.common.ClassReflector - inputText
+[INFO ] [19:23:27] com.baidu.gameqa.Lib.common.SimpleLogger - com.baidu.gameqa.Gat.uia.webautomation.webcontrols.WebUIButton
+[INFO ] [19:23:27] com.baidu.gameqa.Gat.uia.webautomation.Action - class com.baidu.gameqa.Gat.uia.webautomation.webcontrols.WebUIButton
+[INFO ] [19:23:29] com.baidu.gameqa.Gat.executor.WebUIStepsExecutor - tear down now 

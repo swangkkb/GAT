@@ -1,0 +1,16 @@
+D:\MobilePlatformQA.AutomationTesting\InterfaceAutomation\IATTestProject\
+.classpath
+D:\MobilePlatformQA.AutomationTesting\InterfaceAutomation\IATTestProject\
+.project
+D:\MobilePlatformQA.AutomationTesting\InterfaceAutomation\IATTestProject\.settings\
+org.eclipse.jdt.core.prefs
+D:\MobilePlatformQA.AutomationTesting\InterfaceAutomation\IATTestProject\
+gatConfig.properties
+D:\MobilePlatformQA.AutomationTesting\InterfaceAutomation\IATTestProject\
+logConfig.properties
+D:\MobilePlatformQA.AutomationTesting\InterfaceAutomation\IATTestProject\
+build.xml
+BigEyesVideo_
+playerList
+D:\MobilePlatformQA.AutomationTesting\InterfaceAutomation\IATTestProject\src\com\gateside\autotesting\generation\BigEyesVideo_
+playerList.java

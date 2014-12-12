@@ -1,0 +1,10 @@
+<AllStepParameters>
+<StepParameter ID="DeleteAllInsertDataWithUid100_103" Name="DeleteSubscribe" >
+      <ConnectionString>jdbc:mysql://1.1.1.1:3306/demo</ConnectionString>
+      <CommandText>delete from subscription where user_id in (100,101,102,103)</CommandText>
+      <Parameters>
+      <parameter Key="user" Value="apple_user"/>
+      <parameter Key="password" Value="aabbccdd"/>
+     </Parameters>
+    </StepParameter>
+</AllStepParameters>

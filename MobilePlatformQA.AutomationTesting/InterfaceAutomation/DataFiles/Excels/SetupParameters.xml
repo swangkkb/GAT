@@ -1,0 +1,10 @@
+<AllStepParameters>
+     <StepParameter ID="CleanData_12832" Name="PostHistory" >
+      <ConnectionString>jdbc:mysql://1.1.1.1:3306/demo</ConnectionString>
+      <CommandText>delete from view_history where video_id=12832</CommandText>
+      <Parameters>
+      <parameter Key="user" Value="apple_user"/>
+      <parameter Key="password" Value="aabbccdd"/>
+     </Parameters>
+    </StepParameter>
+</AllStepParameters>
