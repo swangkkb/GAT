@@ -1,5 +1,0 @@
-1  仅更新libs文件夹即可
-
-2  需要把GlobalParameters.xml放到DataFiles\Xmls目录下
-
-3 在TestProject下的gatConfig.properties增加一行：globalParameterFileName=GlobalParameters.xml
