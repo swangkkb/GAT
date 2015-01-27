@@ -6,3 +6,4 @@ descColumnSignal=#
 webcontrolldefaultpackage=com.gateside.Gat.uia.webautomation.webcontrols.
 screenpicturedir= test-output\\ScreenPictures
 autoprojectfolder=InterfaceAutomation
+globalParameterFileName=GlobalParameters.xml
